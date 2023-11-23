@@ -1,0 +1,22 @@
+.Faq_header{
+    color: #3AB0FF;
+    font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+.Faq_desc{
+    text-align: start;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+.desc_body{
+background-color: #FF6D28;
+
+}
+.accordion{
+    border: 1px solid black;
+}
+.wraapping{
+    display: flex;
+    align-items: start;
+    flex-wrap: wrap;
+}
